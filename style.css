@@ -1,0 +1,2257 @@
+body{
+    margin: 0;
+}
+
+.header{
+    display: flex;
+    padding: 10px 170px;
+}
+
+.text1{
+    cursor: pointer;
+}
+
+.text2{
+    position: relative;
+    left: 40px;
+}
+
+.text3{
+    position: relative;
+    left: 60px;
+    cursor: pointer;
+}
+
+.text4{
+    position: relative;
+    left: 90px;
+}
+
+.text5{
+    position: relative;
+    left: 120px;
+}
+
+hr{
+    margin-top: -10px;
+}
+
+.fa-chevron-down{
+    position: relative;
+    left: 70px;
+    top: 20px;
+    font-size: 13px;
+}
+
+.icon{
+    position: relative;
+    left: 114px;
+}
+
+.text1:hover{
+    color: blueviolet;
+}
+
+.text3:hover{
+    color: blueviolet;
+}
+
+.text6{
+    position: relative;
+    left: 700px;
+    font-size: 18px;
+}
+
+.text7{
+    position: relative;
+    left: 710px;
+    top: 3px;
+    color: red;
+}
+
+#logo{
+    position: relative;
+    left: 175px;
+    top: 10px;
+    height: 30px;
+    width: 100px;
+}
+
+.container{
+    font-size: 19px;
+    display: flex;
+    cursor: pointer;
+}
+
+.text-1{
+    position: relative;
+    top: -7px;
+    left: 325px;
+}
+
+.text-1:hover{
+    color: blueviolet;
+}
+
+.icon1{
+    position: relative;
+    left: 390px;
+    top: 18px;
+}
+
+.text-2{
+    position: relative;
+    left: 360px;
+    top: -7px;
+}
+
+.text-2:hover{
+    color: blueviolet;
+}
+
+.icon2{
+    position: relative;
+    left: 420px;
+    top: 18px;
+}
+
+.text-3{
+    position: relative;
+    left: 415px;
+    top: -7px;
+}
+
+.text-3:hover{
+    color: blueviolet;
+}
+
+.icon3{
+    position: relative;
+    left: 830px;
+    top: 18px;
+}
+
+.text-4{
+    position: relative;
+    left: 440px;
+    top: -7px;
+}
+
+.text-4:hover{
+    color: blueviolet;
+}
+
+.icon3{
+    position: relative;
+    left: 500px;
+    top: 18px;
+}
+
+.text-5{
+    position: relative;
+    left: 485px;
+    top: -7px;
+}
+
+.text-5:hover{
+    color: blueviolet;
+}
+
+.icon4{
+    position: relative;
+    left: 540px;
+    top: 18px;
+}
+
+.text-6{
+    position: relative;
+    left: 535px;
+    top: -7px;
+}
+
+.text-6:hover{
+    color: blueviolet;
+}
+
+.text-7{
+    position: relative;
+    left: 570px;
+    top: -7px;
+}
+
+.text-7:hover{
+    color: blueviolet;
+}
+
+.fa-magnifying-glass{
+    position: relative;
+    left: 700px;
+    top: 9px;
+}
+
+.fa-magnifying-glass:hover{
+    color: blueviolet;
+}
+
+.fa-user{
+    position: relative;
+    left: 720px;
+    top: 9px;
+}
+
+.fa-user:hover{
+    color: blueviolet;
+}
+
+.container .fa-heart{
+    position: relative;
+    left: 740px;
+    top: 9px;
+}
+
+.container .fa-heart:hover{
+    color: blueviolet;
+}
+
+.fa-bag-shopping{
+    position: relative;
+    left: 760px;
+    top: 9px;
+}
+
+.fa-bag-shopping:hover{
+    color: blueviolet;
+}
+
+
+
+
+
+.card{
+    width: 100%;
+    height: 100px;
+    background-color: #e8e8e887;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card span{
+    position: relative;
+    left: -10px;
+}
+
+.card span:hover{
+    color: blueviolet;
+    cursor: pointer;
+}
+
+.card h4{
+    position: relative;
+    left: 10px;
+    font-weight: lighter;
+}
+
+.card p{
+    font-size: 25px;
+    cursor: default;
+}
+
+
+
+
+
+.item{
+    display: flex;
+}
+
+.item span{
+    position: relative;
+    left: 180px;
+    top: 90px;
+    font-size: 22px;
+    font-family: sans-serif;
+}
+
+.item h4{
+    position: relative;
+    left: 420px;
+    top: 70px;
+    font-weight: lighter;
+    color: rgb(86, 86, 86);
+    cursor: default;
+}
+
+.item .h-4{
+    position: relative;
+    left: 500px;
+    cursor: text;
+}
+
+.item .icon-1{
+    position: relative;
+    left: 440px;
+    top: 95px;
+}
+
+.fa-list{
+    position: relative;
+    left: 960px;
+    top: 90px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.fa-table-cells{
+    font-size: 20px;
+    position: relative;
+    left: 900px;
+    top: 90px;
+    color: rgb(255, 20, 216);
+    cursor: pointer;
+}
+
+
+
+
+#search{
+    position: relative;
+    width: 235px;
+    height: 40px;
+    text-indent: 20px;
+    top: 80px;
+    left: 180px;
+    border: 1px solid rgb(181, 181, 181);
+    font-size: 15px;
+}
+
+.input p{
+    position: relative;
+    left: 360px;
+    top: 10px;
+    font-size: 30px;
+    width: max-content;
+}
+
+.input .icon-6{
+    position: relative;
+    left: 385px;
+    top: -45px;
+}
+
+
+
+
+.list-1 p{
+    position: relative;
+    left: 180px;
+    top: 10px;
+    width: max-content;
+    font-size: 20px;
+}
+
+.list #card-1{
+    position: relative;
+    left: 180px;
+    top: 30px;
+    width: 17px;
+    height: 17px;
+    accent-color: #fa6bff;
+}
+
+.list h5{
+    position: relative;
+    left: 220px;
+    width: 190px;
+    top: -22px;
+    font-weight: lighter;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.background-1{
+    width: 25px;
+    height: 20px;
+    border-radius: 40%;
+    background-color: rgb(216, 216, 216);
+    position: relative;
+    left: 382px;
+    top: -70px;
+    text-align: center;
+}
+
+.list .background-1:hover{
+    background-color: blueviolet;
+    color: #fff;
+}
+
+.list{
+    width: max-content;
+    height: max-content;
+    cursor: pointer;
+}
+
+.list:hover{
+    color: blueviolet;
+}
+
+.list-2{
+    position: relative;
+    left: 180px;
+    top: 10px;
+    width: max-content;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.list-2 #card-2{
+    position: relative;
+    top: -60px;
+    width: 17px;
+    height: 17px;
+    accent-color: #fa6bff;
+}
+
+.list-2 h5{
+    position: relative;
+    left: 40px;
+    width: 190px;
+    top: -112px;
+    font-weight: lighter;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.background-2{
+    width: 25px;
+    height: 20px;
+    border-radius: 40%;
+    background-color: rgb(216, 216, 216);
+    position: relative;
+    left: 202px;
+    top: -160px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.list-2:hover{
+    color: blueviolet;
+}
+
+.background-2:hover{
+    background-color: blueviolet;
+    color: #fff;
+}
+
+
+
+.list-3{
+    position: relative;
+    left: 180px;
+    top: -70px;
+    width: max-content;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.list-3 #card-3{
+    position: relative;
+    top: -60px;
+    width: 17px;
+    height: 17px;
+    accent-color: #fa6bff;
+}
+
+.list-3 h5{
+    position: relative;
+    left: 40px;
+    width: 190px;
+    top: -112px;
+    font-weight: lighter;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.background-3{
+    width: 25px;
+    height: 20px;
+    border-radius: 40%;
+    background-color: rgb(216, 216, 216);
+    position: relative;
+    left: 202px;
+    top: -160px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.list-3:hover{
+    color: blueviolet;
+}
+
+.background-3:hover{
+    background-color: blueviolet;
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+.item-1 p{
+    position: relative;
+    top: -180px;
+    left: 180px;
+    width: max-content;
+}
+
+#img-1{
+    position: relative;
+    left: 470px;
+    top: -530px;
+    cursor: pointer;
+}
+
+#img-2{
+    position: relative;
+    left: 500px;
+    top: -530px;
+    cursor: pointer;
+}
+
+#img-3{
+    position: relative;
+    left: 520px;
+    top: -530px;
+    cursor: pointer;
+}
+
+#img-4{
+    position: relative;
+    top: -55px;
+    left: -350px;
+    cursor: pointer;
+}
+
+#img-5{
+    position: relative;
+    top: -55px;
+    left: -320px;
+    cursor: pointer;
+
+}
+
+#img-6{
+    position: relative;
+    top: -403px;
+    left: 1070px;
+    cursor: pointer;
+}
+
+#img-7{
+    position: relative;
+    top: 70px;
+    left: 200px;
+    cursor: pointer;
+}
+
+#img-8{
+    position: relative;
+    top: 70px;
+    left: 230px;
+    cursor: pointer;
+}
+
+#img-9{
+    position: relative;
+    top: 70px;
+    left: 250px;
+    cursor: pointer;
+}
+
+.box-1{
+    width: 60px;
+    height: 20px;
+    background-color: #fa6bff;
+    text-align: center;
+    border-radius: 5px;
+    position: relative;
+    top: -1210px;
+    left: 660px;
+}
+
+.box-2{
+    width: 60px;
+    height: 20px;
+    background-color: #a749ff;
+    text-align: center;
+    border-radius: 5px;
+    position: relative;
+    top: -1230px;
+    left: 960px;
+}
+
+.box-3{
+    width: 60px;
+    height: 20px;
+    background-color: #fa6bff;
+    text-align: center;
+    border-radius: 5px;
+    position: relative;
+    top: -1250px;
+    left: 1260px;
+}
+
+.box-4{
+    width: 60px;
+    height: 20px;
+    background-color: #a749ff;
+    text-align: center;
+    border-radius: 5px;
+    position: relative;
+    top: -790px;
+    left: 660px;
+}
+
+.box-5{
+    width: 60px;
+    height: 20px;
+    background-color: #fa6bff;
+    text-align: center;
+    border-radius: 5px;
+    position: relative;
+    top: -810px;
+    left: 960px;
+}
+
+.box-6{
+    width: 60px;
+    height: 20px;
+    background-color: #a749ff;
+    text-align: center;
+    border-radius: 5px;
+    position: relative;
+    top: -830px;
+    left: 1260px;
+}
+
+.box-7{
+    width: 60px;
+    height: 20px;
+    background-color: #fa6bff;
+    text-align: center;
+    border-radius: 5px;
+    position: relative;
+    top: -380px;
+    left: 660px;
+}
+
+.box-8{
+    width: 60px;
+    height: 20px;
+    background-color: #a749ff;
+    text-align: center;
+    border-radius: 5px;
+    position: relative;
+    top: -400px;
+    left: 960px;
+}
+
+.box-9{
+    width: 60px;
+    height: 20px;
+    background-color: #fa6bff;
+    text-align: center;
+    border-radius: 5px;
+    position: relative;
+    top: -420px;
+    left: 1260px;
+}
+
+.texts-1 h3{
+    position: relative;
+    top: -1065px;
+    left: 530px;
+    width: max-content;
+    font-weight: lighter;
+    font-size: 22px;
+}
+
+.fa-star{
+    position: relative;
+    top: -1120px;
+    left: 545px;
+    width: 25px;
+}
+
+.star-1{
+    color: #ffa900;
+}
+
+.star-2{
+    color: #ffa900;
+}
+
+.star-3{
+    color: #ffa900;
+}
+
+.texts-1 p{
+    position: relative;
+    top: -1050px;
+    left: 545px;
+    width: max-content;
+    font-size: 20px;
+}
+
+.texts-2{
+    position: relative;
+    top: -1195px;
+    left: 830px;
+    width: max-content;
+}
+
+.texts-2 h3{
+    font-weight: lighter;
+    font-size: 22px;
+}
+
+.texts-2 .fa-star{
+    width: max-content;
+    position: relative;
+    left: 100px;
+}
+
+.texts-2 .fa-star{
+    position: relative;
+    left: 15px;
+    top: -55px;
+    width: 25px;
+}
+
+.texts-2 p{
+    font-size: 20px;
+    position: relative;
+    top: 15px;
+    left: 50px;
+}
+
+.texts-3{
+    position: relative;
+    top: -1325px;
+    left: 1130px;
+    width: max-content;
+}
+
+.texts-3 h3{
+    font-weight: lighter;
+    font-size: 22px;
+}
+
+.texts-3 .fa-star{
+    width: max-content;
+    position: relative;
+    left: 100px;
+}
+
+.texts-3 .fa-star{
+    position: relative;
+    left: 15px;
+    top: -55px;
+    width: 25px;
+}
+
+.texts-3 p{
+    font-size: 20px;
+    position: relative;
+    top: 15px;
+    left: 17px;
+}
+
+.texts-4{
+    position: relative;
+    top: -980px;
+    left: 530px;
+    width: max-content;
+}
+
+.texts-4 h3{
+    font-weight: lighter;
+    font-size: 22px;
+}
+
+.texts-4 .fa-star{
+    width: max-content;
+    position: relative;
+    left: 100px;
+}
+
+.texts-4 .fa-star{
+    position: relative;
+    left: 15px;
+    top: -55px;
+    width: 25px;
+}
+
+.texts-4 p{
+    font-size: 20px;
+    position: relative;
+    top: 15px;
+    left: 50px;
+}
+
+.texts-5{
+    position: relative;
+    top: -1110px;
+    left: 830px;
+    width: max-content;
+}
+
+.texts-5 h3{
+    font-weight: lighter;
+    font-size: 22px;
+}
+
+.texts-5 .fa-star{
+    width: max-content;
+    position: relative;
+    left: 100px;
+}
+
+.texts-5 .fa-star{
+    position: relative;
+    left: 15px;
+    top: -55px;
+    width: 25px;
+}
+
+.texts-5 p{
+    font-size: 20px;
+    position: relative;
+    top: 15px;
+    left: 17px;
+}
+
+.texts-6{
+    position: relative;
+    top: -1240px;
+    left: 1130px;
+    width: max-content;
+}
+
+.texts-6 h3{
+    font-weight: lighter;
+    font-size: 22px;
+}
+
+.texts-6 .fa-star{
+    width: max-content;
+    position: relative;
+    left: 100px;
+}
+
+.texts-6 .fa-star{
+    position: relative;
+    left: 15px;
+    top: -55px;
+    width: 25px;
+}
+
+.texts-6 p{
+    font-size: 20px;
+    position: relative;
+    top: 15px;
+    left: 50px;
+}
+
+.texts-7{
+    position: relative;
+    top: -900px;
+    left: 530px;
+    width: max-content;
+}
+
+.texts-7 h3{
+    font-weight: lighter;
+    font-size: 22px;
+}
+
+.texts-7 .fa-star{
+    width: max-content;
+    position: relative;
+    left: 100px;
+}
+
+.texts-7 .fa-star{
+    position: relative;
+    left: 15px;
+    top: -55px;
+    width: 25px;
+}
+
+.texts-7 p{
+    font-size: 20px;
+    position: relative;
+    top: 15px;
+    left: 17px;
+}
+
+.texts-8{
+    position: relative;
+    top: -1030px;
+    left: 830px;
+    width: max-content;
+}
+
+.texts-8 h3{
+    font-weight: lighter;
+    font-size: 22px;
+}
+
+.texts-8 .fa-star{
+    width: max-content;
+    position: relative;
+    left: 100px;
+}
+
+.texts-8 .fa-star{
+    position: relative;
+    left: 15px;
+    top: -55px;
+    width: 25px;
+}
+
+.texts-8 p{
+    font-size: 20px;
+    position: relative;
+    top: 15px;
+    left: 50px;
+}
+
+.texts-9{
+    position: relative;
+    top: -1160px;
+    left: 1130px;
+    width: max-content;
+}
+
+.texts-9 h3{
+    font-weight: lighter;
+    font-size: 22px;
+}
+
+.texts-9 .fa-star{
+    width: max-content;
+    position: relative;
+    left: 100px;
+}
+
+.texts-9 .fa-star{
+    position: relative;
+    left: 15px;
+    top: -55px;
+    width: 25px;
+}
+
+.texts-9 p{
+    font-size: 20px;
+    position: relative;
+    top: 15px;
+    left: 17px;
+}
+
+.card-icon-1{
+    width: 50px;
+    height: 40px;
+    background-color: #a749ff;
+    position: relative;
+    top: -2276px;
+    left: 470px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid white;
+}
+
+.card-icon-1:hover{
+    background-color: black;
+    color: #fff;
+}
+
+.card-icon-2{
+    width: 170px;
+    height: 40px;
+    background-color: #a749ff;
+    position: relative;
+    top: -2318px;
+    left: 520px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid white;
+}
+
+.card-icon-2 .card-01{
+    position: relative;
+    left: 35%;
+    top: 30%;
+}
+
+.card-icon-2:hover{
+    background-color: black;
+    color: #fff;
+}
+
+.card-icon-3{
+    width: 50px;
+    height: 40px;
+    background-color: #a749ff;
+    position: relative;
+    top: -2359px;
+    left: 690px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid white;
+}
+
+.card-icon-3:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.card-icon-4{
+    width: 50px;
+    height: 40px;
+    background-color: #a749ff;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    position: relative;
+    top: -2402px;
+    left: 774px;
+}
+
+.card-icon-4:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.card-icon-5{
+    width: 170px;
+    height: 40px;
+    background-color: #a749ff;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    position: relative;
+    top: -2443px;
+    left: 825px;
+}
+
+.card-icon-5:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.card-icon-6{
+    width: 50px;
+    height: 40px;
+    background-color: #a749ff;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    position: relative;
+    top: -2485px;
+    left: 995px;
+}
+
+.card-icon-6:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.card-icon-7{
+    width: 50px;
+    height: 40px;
+    background-color: #a749ff;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    position: relative;
+    top: -2528px;
+    left: 1068px;
+}
+
+.card-icon-7:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.card-icon-8{
+    width: 170px;
+    height: 40px;
+    background-color: #a749ff;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    position: relative;
+    top: -2570px;
+    left: 1119px;
+}
+
+.card-icon-8:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.card-icon-9{
+    width: 50px;
+    height: 40px;
+    background-color: #a749ff;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    position: relative;
+    top: -2611px;
+    left: 1289px;
+}
+
+.card-icon-9:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.card-icon-10{
+    width: 50px;
+    height: 40px;
+    background-color: #a749ff;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    position: relative;
+    top: -2176px;
+    left: 470px;
+}
+
+.card-icon-10:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.card-icon-11{
+    width: 170px;
+    height: 40px;
+    background-color: #a749ff;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    position: relative;
+    top: -2218px;
+    left: 521px;
+}
+
+.card-icon-11:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.card-icon-12{
+    width: 50px;
+    height: 40px;
+    background-color: #a749ff;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    position: relative;
+    top: -2259px;
+    left: 692px;
+}
+
+.card-icon-12:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.card-icon-13{
+    width: 50px;
+    height: 40px;
+    background-color: #a749ff;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    position: relative;
+    top: -2302px;
+    left: 775px;
+}
+
+.card-icon-13:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.card-icon-14{
+    width: 170px;
+    height: 40px;
+    background-color: #a749ff;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    position: relative;
+    top: -2343px;
+    left: 825px;
+}
+
+.card-icon-14:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.card-icon-15{
+    width: 50px;
+    height: 40px;
+    background-color: #a749ff;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    position: relative;
+    top: -2385px;
+    left: 996px;
+}
+
+.card-icon-15:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.card-icon-16{
+    width: 50px;
+    height: 40px;
+    background-color: #a749ff;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    position: relative;
+    top: -2426px;
+    left: 1070px;
+}
+
+.card-icon-16:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.card-icon-17{
+    width: 170px;
+    height: 40px;
+    background-color: #a749ff;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    position: relative;
+    top: -2467px;
+    left: 1121px;
+}
+
+.card-icon-17:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.card-icon-18{
+    width: 50px;
+    height: 40px;
+    background-color: #a749ff;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    position: relative;
+    top: -2509px;
+    left: 1293px;
+}
+
+.card-icon-18:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.card-icon-19{
+    width: 50px;
+    height: 40px;
+    background-color: #a749ff;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    position: relative;
+    top: -2076px;
+    left: 473px;
+}
+
+.card-icon-19:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.card-icon-20{
+    width: 170px;
+    height: 40px;
+    background-color: #a749ff;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    position: relative;
+    top: -2118px;
+    left: 524px;
+}
+
+.card-icon-20:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.card-icon-21{
+    width: 50px;
+    height: 40px;
+    background-color: #a749ff;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    position: relative;
+    top: -2159px;
+    left: 695px;
+}
+
+.card-icon-21:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.card-icon-22{
+    width: 50px;
+    height: 40px;
+    background-color: #a749ff;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    position: relative;
+    top: -2202px;
+    left: 777px;
+}
+
+.card-icon-22:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.card-icon-23{
+    width: 170px;
+    height: 40px;
+    background-color: #a749ff;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    position: relative;
+    top: -2243px;
+    left: 828px;
+}
+
+.card-icon-23:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.card-icon-24{
+    width: 50px;
+    height: 40px;
+    background-color: #a749ff;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    position: relative;
+    top: -2285px;
+    left: 999px;
+}
+
+.card-icon-24:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.card-icon-25{
+    width: 50px;
+    height: 40px;
+    background-color: #a749ff;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    position: relative;
+    top: -2326px;
+    left: 1071px;
+}
+
+.card-icon-25:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.card-icon-26{
+    width: 170px;
+    height: 40px;
+    background-color: #a749ff;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    position: relative;
+    top: -2367px;
+    left: 1121px;
+}
+
+.card-icon-26:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.card-icon-27{
+    width: 50px;
+    height: 40px;
+    background-color: #a749ff;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    position: relative;
+    top: -2409px;
+    left: 1292px;
+}
+
+.card-icon-27:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.circle{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #f6f6f6;
+    position: relative;
+    top: -2250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #a749ff;
+    left: 53%;
+    cursor: pointer;
+}
+
+.circle:hover{
+    background-color: #a749ff;
+    color: #fff;
+}
+
+.circle-1{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #a749ff;
+    position: relative;
+    top: -2290px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;  
+    left: 855px;
+    cursor: pointer;
+}
+
+.circle-1:hover{
+    background-color: #000;
+}
+
+.circle-2{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #fff;
+    position: relative;
+    top: -2330px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #a749ff;  
+    left: 905px;
+    box-shadow: 0px 2px 8px rgb(158, 158, 158);
+    cursor: pointer;
+}
+
+.circle-2:hover{
+    background-color: #a749ff;
+    color: #fff;
+}
+
+.circle-3{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #f6f6f6;
+    position: relative;
+    top: -2370px;
+    left: 955px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #a749ff;  
+    cursor: pointer;
+}
+
+.circle-3:hover{
+    background-color: #a749ff;
+    color: #fff;
+}
+
+.footer{
+    width: 100%;
+    height: 430px;
+    background-color: #f6f6f8;
+    position: relative;
+    top: -2260px;
+}
+
+#flogo{
+    position: relative;
+    left: 175px;
+    top: 140px;
+}
+
+.footer p{
+    position: relative;
+    left: 175px;
+    top: 135px;
+    width: max-content;
+}
+
+.footer span{
+    position: relative;
+    left: 230px;
+    top: 100px;
+    cursor: pointer;
+}
+
+.footer span:hover{
+    color: #a749ff;
+}
+
+.footer h4{
+    font-weight: lighter;
+    position: relative;
+    top: 90px;
+    left: 175px;
+    width: max-content;
+}
+
+.footer .btext{
+    font-weight: 700;
+    font-family: sans-serif;
+    position: relative;
+    left: 405px;
+    top: -60px;
+}
+
+.footer .text-01{
+    position: relative;
+    left: 405px;
+    top: -50px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.footer .text-01:hover{
+    color: #a749ff;
+}
+
+.footer .text-02{
+    position: relative;
+    left: 405px;
+    top: -50px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.footer .text-02:hover{
+    color: #a749ff;
+}
+
+.footer .text-03{
+    position: relative;
+    left: 405px;
+    top: -50px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.footer .text-03:hover{
+    color: #a749ff;
+}
+
+.footer .text-04{
+    position: relative;
+    left: 405px;
+    top: -50px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.footer .text-04:hover{
+    color: #a749ff;
+}
+
+.footer .btext-2{
+    font-weight: 700;
+    font-family: sans-serif;
+    position: relative;
+    left: 625px;
+    top: -251px;
+}
+
+.footer .text-05{
+    position: relative;
+    top: -240px;
+    left: 625px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.footer .text-05:hover{
+    color: #a749ff;
+}
+
+.footer .text-06{
+    position: relative;
+    top: -240px;
+    left: 625px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.footer .text-06:hover{
+    color: #a749ff;
+}
+
+.footer .text-07{
+    position: relative;
+    top: -240px;
+    left: 625px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.footer .text-07:hover{
+    color: #a749ff;
+}
+
+.footer .text-08{
+    position: relative;
+    top: -240px;
+    left: 625px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.footer .text-08:hover{
+    color: #a749ff;
+}
+
+.footer .btext-3{
+    font-weight: 700;
+    font-family: sans-serif;
+    position: relative;
+    left: 850px;
+    top: -443px;
+}
+
+.footer .text-09{
+    position: relative;
+    top: -433px;
+    left: 850px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.footer .text-09:hover{
+    color: #a749ff;
+}
+
+.footer .text-10{
+    position: relative;
+    top: -433px;
+    left: 850px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.footer .text-10:hover{
+    color: #a749ff;
+}
+
+.footer .text-11{
+    position: relative;
+    top: -433px;
+    left: 850px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.footer .text-11:hover{
+    color: #a749ff;
+}
+
+.footer .text-12{
+    position: relative;
+    top: -433px;
+    left: 850px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.footer .text-12:hover{
+    color: #a749ff;
+}
+
+.footer .btext-4{
+    font-weight: 700;
+    font-family: sans-serif;
+    position: relative;
+    left: 1045px;
+    top: -634px;
+}
+
+.footer .text-13{
+    position: relative;
+    top: -621px;
+    left: 1045px;
+    font-size: 16px;
+    cursor: text;
+}
+
+#in-text{
+    position: relative;
+    top: -600px;
+    left: 1045px;
+    width: 285px;
+    height: 40px;
+    border: none;
+    background-color: #f6f6f8;
+    border: none;
+    outline: none;
+}
+
+.footer hr{
+    position: relative;
+    top: -590px;
+    left: 418px;
+    width: 260px;
+}
+
+.footer .text-14{
+    position: relative;
+    top: -580px;
+    left: 1045px;
+    cursor: pointer;
+}
+
+.footer .text-14:hover{
+    color: #a749ff;
+}
+
+.search-list p{
+    position: relative;
+    top: -3950px;
+    left: 180px;
+    font-weight: bold;
+    font-size: 18px;
+    width: max-content;
+}
+
+#range{
+    position: relative;
+    top: -3950px;
+    left: 180px;
+    width: 230px;
+    accent-color: #fa6bff;
+    cursor: pointer;
+}
+
+.search-list .list-text-1{
+    font-weight: lighter;
+}
+
+.box-list{
+    width: 25px;
+    height: 20px;
+    border-radius: 40%;
+    background-color: rgb(216, 216, 216);
+    position: relative;
+    left: 382px;
+    top: -70px;
+    text-align: center;
+}
+
+.in-list h5{
+    position: relative;
+    left: 220px;
+    width: 190px;
+    top: -22px;
+    font-weight: lighter;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+#che-list{
+    position: relative;
+    left: 180px;
+    top: 30px;
+    width: 17px;
+    height: 17px;
+    accent-color: #fa6bff;
+}
+
+.in-list{
+    position: relative;
+    top: -3980px;
+    cursor: pointer;
+    width: max-content;
+    height: max-content;
+}
+
+.in-list:hover{
+    color: #a749ff;
+}
+
+.box-list:hover{
+    background-color: #a749ff;
+    color: #fff;
+}
+
+.box-list-2{
+    width: 25px;
+    height: 20px;
+    border-radius: 40%;
+    background-color: rgb(216, 216, 216);
+    position: relative;
+    left: 382px;
+    top: -70px;
+    text-align: center;
+}
+
+.in-list-2 h5{
+    position: relative;
+    left: 220px;
+    top: -22px;
+    font-weight: lighter;
+    font-size: 17px;
+    cursor: pointer;
+    width: max-content;
+    height: max-content;
+}
+
+#che-list-2{
+    position: relative;
+    left: 180px;
+    top: 30px;
+    width: 17px;
+    height: 17px;
+    accent-color: #fa6bff;
+}
+
+.in-list-2{
+    position: relative;
+    top: -4060px;
+    cursor: pointer;
+}
+
+.in-list-2:hover{
+    color: #a749ff;
+}
+
+.box-list-2:hover{
+    background-color: #a749ff;
+    color: #fff;
+}
+
+.box-list-3{
+    width: 25px;
+    height: 20px;
+    border-radius: 40%;
+    background-color: rgb(216, 216, 216);
+    position: relative;
+    left: 382px;
+    top: -70px;
+    text-align: center;
+}
+
+.in-list-3 h5{
+    position: relative;
+    left: 220px;
+    width: 190px;
+    top: -22px;
+    font-weight: lighter;
+    font-size: 17px;
+    cursor: pointer;
+    width: max-content;
+}
+
+#che-list-3{
+    position: relative;
+    left: 180px;
+    top: 30px;
+    width: 17px;
+    height: 17px;
+    accent-color: #fa6bff;
+}
+
+.in-list-3{
+    position: relative;
+    top: -4140px;
+    cursor: pointer;
+}
+
+.in-list-3:hover{
+    color: #a749ff;
+}
+
+.box-list-3:hover{
+    background-color: #a749ff;
+    color: #fff;
+}
+
+.box-list-4{
+    width: 25px;
+    height: 20px;
+    border-radius: 40%;
+    background-color: rgb(216, 216, 216);
+    position: relative;
+    left: 382px;
+    top: -70px;
+    text-align: center;
+}
+
+.in-list-4 h5{
+    position: relative;
+    left: 220px;
+    width: 190px;
+    top: -22px;
+    font-weight: lighter;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+#che-list-4{
+    position: relative;
+    left: 180px;
+    top: 30px;
+    width: 17px;
+    height: 17px;
+    accent-color: #fa6bff;
+}
+
+.in-list-4{
+    position: relative;
+    top: -4220px;
+    cursor: pointer;
+}
+
+.in-list-4:hover{
+    color: #a749ff;
+}
+
+.box-list-4:hover{
+    background-color: #a749ff;
+    color: #fff;
+}
+
+.size-text{
+    position: relative;
+    top: -4270px;
+    left: 180px;
+    font-size: 20px;
+    width: max-content;
+    font-weight: 500;
+}
+
+.in-list-5 h5{
+    position: relative;
+    left: 220px;
+    width: 190px;
+    top: -22px;
+    font-weight: lighter;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+#che-list-5{
+    position: relative;
+    left: 180px;
+    top: 30px;
+    width: 17px;
+    height: 17px;
+    accent-color: #fa6bff;
+}
+
+.in-list-5{
+    position: relative;
+    top: -4300px;
+    cursor: pointer;
+}
+
+.in-list-5:hover{
+    color: #a749ff;
+}
+
+.in-list-6 h5{
+    position: relative;
+    left: 220px;
+    width: 190px;
+    top: -22px;
+    font-weight: lighter;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+#che-list-6{
+    position: relative;
+    left: 180px;
+    top: 30px;
+    width: 17px;
+    height: 17px;
+    accent-color: #fa6bff;
+}
+
+.in-list-6{
+    position: relative;
+    top: -4360px;
+    cursor: pointer;
+}
+
+.in-list-6:hover{
+    color: #a749ff;
+}
+
+.in-list-7 h5{
+    position: relative;
+    left: 220px;
+    width: 190px;
+    top: -22px;
+    font-weight: lighter;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+#che-list-7{
+    position: relative;
+    left: 180px;
+    top: 30px;
+    width: 17px;
+    height: 17px;
+    accent-color: #fa6bff;
+}
+
+.in-list-7{
+    position: relative;
+    top: -4420px;
+    cursor: pointer;
+}
+
+.in-list-7:hover{
+    color: #a749ff;
+}
+
+.in-list-8 h5{
+    position: relative;
+    left: 220px;
+    width: 190px;
+    top: -22px;
+    font-weight: lighter;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+#che-list-8{
+    position: relative;
+    left: 180px;
+    top: 30px;
+    width: 17px;
+    height: 17px;
+    accent-color: #fa6bff;
+}
+
+.in-list-8{
+    position: relative;
+    top: -4480px;
+    cursor: pointer;
+}
+
+.in-list-8:hover{
+    color: #a749ff;
+}
+
+.content-1 h5{
+    position: relative;
+    top: -4500px;
+    left: 180px;
+    font-size: 20px;
+    font-weight: lighter;
+    width: max-content;
+}
+
+.content-1 .items-1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90px;
+    height: 35px;
+    color: #424242;
+    background-color: #f6f6f6;line-height: 1;
+    border-radius: 50px;
+    cursor: pointer;
+    position: relative;
+    top: -4510px;
+    left: 180px;
+}
+
+.content-1 .items-1:hover{
+    background-color: #a749ff;
+    color: #fff;
+}
+
+.content-1 .items-2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 120px;
+    height: 35px;
+    color: #424242;
+    background-color: #f6f6f6;line-height: 1;
+    border-radius: 50px;
+    cursor: pointer;
+    position: relative;
+    top: -4545px;
+    left: 290px;
+}
+
+.content-1 .items-2:hover{
+    background-color: #a749ff;
+    color: #fff;
+}
+
+.content-1 .items-3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90px;
+    height: 35px;
+    color: #424242;
+    background-color: #f6f6f6;line-height: 1;
+    border-radius: 50px;
+    cursor: pointer;
+    position: relative;
+    top: -4530px;
+    left: 180px;
+}
+
+.content-1 .items-3:hover{
+    background-color: #a749ff;
+    color: #fff;
+}
+
+.content-1 .items-4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90px;
+    height: 35px;
+    color: #424242;
+    background-color: #f6f6f6;line-height: 1;
+    border-radius: 50px;
+    cursor: pointer;
+    position: relative;
+    top: -4565px;
+    left: 290px;
+}
+
+.content-1 .items-4:hover{
+    background-color: #a749ff;
+    color: #fff;
+}
+
+.content-1 .items-5{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90px;
+    height: 35px;
+    color: #424242;
+    background-color: #f6f6f6;line-height: 1;
+    border-radius: 50px;
+    cursor: pointer;
+    position: relative;
+    top: -4550px;
+    left: 180px;
+}
+
+.content-1 .items-5:hover{
+    background-color: #a749ff;
+    color: #fff;
+}
